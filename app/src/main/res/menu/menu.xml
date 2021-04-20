@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_first"
+        android:icon="@drawable/ic_one"
+        android:title="First"/>
+
+    <item
+        android:id="@+id/navigation_second"
+        android:icon="@drawable/ic_two"
+        android:title="Second"/>
+
+    <item
+        android:id="@+id/navigation_third"
+        android:icon="@drawable/ic_three"
+        android:title="Third"/>
+</menu>
